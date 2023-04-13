@@ -1,5 +1,15 @@
 # SimpleStockPrediction-ML-Project
 
+# How to Run the code
+
+* On Windows:
+
+Step1: Install Python: If you haven't already, you'll need to install Python on your Windows machine. You can download the latest version of Python from the official Python website at https://www.python.org/downloads/windows/.
+
+Step2: Jupyter Notebook: Once Python is installed, you can install Jupyter Notebook using the following command in your command prompt or terminal:
+
+
+
 # Intorudction 
 
 Nowadays, the stock market is popular for investment and profit-making. However, its volatility and unpredictability pose challenges for predicting future stock prices. In this study, machine learning (ML) models is used to analyze historical data and make accurate predictions. In this research the implementation of five commonly used ML models for time series data - Linear Regression, Moving Average, Simple Exponential Smoothing, Autoregression, and ARIMA - is used to determine which model performs best in forecasting stock prices. The research question is, ***"Which machine learning model is the best for predicting future stock prices?"***
@@ -17,8 +27,6 @@ Linear regression is a popular technique for stock price forecast due to its eas
 * **Moving Average** 
 
 The moving average algorithm is a statistical method used for time series data analysis. It involves calculating the arithmetic mean of a set of values for a certain time period and placing it at the center of that period. The process involves weighting the mean and previous error terms to determine future values. This results in a smooth curve that reveals underlying trends and reduces fluctuations in the data. Moving average is commonly used in finance to analyze stock prices and identify trends and trading signals. The period for the moving average must be carefully chosen before implementing the technique.
-
-![image](https://user-images.githubusercontent.com/92218899/224563123-19ee389e-7eac-4530-8467-987bc57c9d80.png)
 
 * **Smoothing**
 
