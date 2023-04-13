@@ -7,6 +7,54 @@
 Step1: Install Python: If you haven't already, you'll need to install Python on your Windows machine. You can download the latest version of Python from the official Python website at https://www.python.org/downloads/windows/.
 
 Step2: Jupyter Notebook: Once Python is installed, you can install Jupyter Notebook using the following command in your command prompt or terminal:
+```
+pip install jupyter
+
+```
+Step3:  Launch Jupyter Notebook: After Jupyter Notebook is installed, you can launch it by opening a command prompt or terminal and typing the following command:
+```
+jupyter notebook
+
+```
+Jupyter Notebook will open in your default web browser, and you can start creating and running notebooks.
+
+* On Linux 
+
+Step1 : Install Python: If Python is not already installed on your Linux machine, you can install it using the package manager for your Linux distribution. For example, on Ubuntu, you can use the following command:
+
+```
+sudo apt-get update
+sudo apt-get install python3
+
+```
+Step2: Install Jupyter Notebook: Once Python is installed, you can install Jupyter Notebook using the following command in your terminal:
+```
+pip install jupyter
+
+```
+Step3:  Launch Jupyter Notebook: After Jupyter Notebook is installed, you can launch it by opening a command prompt or terminal and typing the following command:
+```
+jupyter notebook
+
+```
+Jupyter Notebook will open in your default web browser, and you can start creating and running notebooks.
+
+* On Mac
+
+Step1: Install Python: If you haven't already, you'll need to install Python on your Windows machine. You can download the latest version of Python from the official Python website at https://www.python.org/downloads/windows/.
+
+Step2: Jupyter Notebook: Once Python is installed, you can install Jupyter Notebook using the following command in your command prompt or terminal:
+```
+pip install jupyter #if not try pip3
+
+```
+Step3:  Launch Jupyter Notebook: After Jupyter Notebook is installed, you can launch it by opening a command prompt or terminal and typing the following command:
+```
+jupyter notebook
+
+```
+Jupyter Notebook will open in your default web browser, and you can start creating and running notebooks.
+
 
 
 
